@@ -1,8 +1,8 @@
 {
     "manifest_version": 2,
-    "name": "Hello World",
+    "name": "Image Search",
     "description": "Simple Popup Extension",
-    "version": "0.01",
+    "version": "1.0",
     "browser_action": 
     {
         "default_icon": "image.png",
