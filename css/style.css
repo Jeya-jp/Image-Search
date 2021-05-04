@@ -1,0 +1,20 @@
+body
+{
+    /* padding: 50px 50px 50px 50px; */
+    background-image: url("../Scattered-Forcefields\ \(2\).svg");
+    width: 300px;
+    height: 220px;
+}
+
+h4
+{
+    padding: 10px;
+}
+
+.box
+{
+    margin-left: 45px;
+    width: 215px;
+}
+
+
