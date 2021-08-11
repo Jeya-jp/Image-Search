@@ -5,7 +5,7 @@
     "version": "1.0",
     "browser_action": 
     {
-        "default_icon": "image.png",
+        "default_icon": "img.png",
         "default_popup": "popup.html"
     },
     "permissions": ["tabs"]
